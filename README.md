@@ -6,3 +6,5 @@
 
 Directed to school students community system, to get info about rooms and availability time
 
+
+https://app.diagrams.net/#W34175864d4640a07%2F34175864D4640A07!117
